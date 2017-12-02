@@ -1,0 +1,7 @@
+#Ignorar 
+*.class
+#Copias de seguridad
+*~
+*.swp
+#Documentación
+*doc/
